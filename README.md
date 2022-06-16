@@ -33,5 +33,17 @@ Inserir dados na tabela user
 Sequelize é uma biblioteca Javascript que facilita o gerenciamento do banco de dados SQL
 ### npm install --save sequelize
 
-Instal o drive do banco de dados
+Instalar o drive do banco de dados
 ### npm install --save mysql2
+
+Instalar o módulo para criptografar a senha
+### npm install --save bcryptjs
+
+Instalar a dependencia para JWT (token)
+### npm install --save jsonwebtoken
+
+Gerenciar variáveis de ambiente
+### npm install --save dotenv
+
+Permitir acesso a API
+### npm install --save cors
